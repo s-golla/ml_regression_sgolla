@@ -3,7 +3,7 @@
 | Metadata | Details |
 | :--- | :--- |
 | **Title** | Predicting Medical Insurance Charges |
-| **Author** | [Your Name/Alias Here] |
+| **Author** | Saratchandra Golla |
 | **Date** | November 24, 2025 |
 | **Project** | Final Project: Regression Analysis |
 | **Dataset** | Medical Cost Personal Datasets (insurance.csv) |

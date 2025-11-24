@@ -42,4 +42,8 @@ jupyter notebook regression_sgolla.ipynb
 ## Notes & Next Steps
 - The notebook flags heteroscedasticity in residuals; the Polynomial Regression improved performance by modeling nonlinear interactions.
 - If you have more time: perform hyperparameter tuning (GridSearchCV, RandomizedSearchCV or Bayesian optimization), try ensemble/tree models (Random Forest, XGBoost), experiment with target transforms, and add model-interpretability (SHAP) and saved model artifacts for deployment.
+ 
+## Project Documents
+- **PROJECT SUMMARY (Modeling Details)** [PROJECT_SUMMARY.md](https://github.com/s-golla/ml_regression_sgolla/blob/main/PROJECT_SUMMARY.md): Detailed High-level project summary (overview, key findings, recommended next steps).
+- **PEER REVIEW (External Feedback)** [peer_review.md](https://github.com/s-golla/ml_regression_sgolla/blob/main/peer_review.md): Peer review feedback and suggestions provided by the reviewer.
 
